@@ -3,9 +3,13 @@
 Required libraries:
 
  pytorch version          --> 1.12.0+cu102
+ 
  matplotlib version       --> 3.5.2
+ 
  tqdm version             --> 4.64.0
+ 
  IPython version          --> 8.4.0
+ 
  Jupyter notebook version --> 6.4.12
 
 Instructions to run the code:
